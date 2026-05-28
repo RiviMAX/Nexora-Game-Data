@@ -1,0 +1,16 @@
+{
+  "title": "NEXORA UPDATE",
+  "description": "අලුත්ම ගේම් අප්ඩේට් එක දැන් ප්ලේ කරන්න!",
+  "download_url": "https://example.com/game.apk",
+  "download_btn_text": "DOWNLOAD GAME",
+  "extra_buttons": [
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/947xxxxxxxx"
+    },
+    {
+      "name": "Whitelist",
+      "url": "https://yourwebsite.com/whitelist"
+    }
+  ]
+}
