@@ -2,7 +2,7 @@
   "title": "NEXORA UPDATE",
   "description": "කොහොමද ඔයාලට!",
   "download_btn_text": "DOWNLOAD GAME",
-  "download_url": "https://example.com/nexora_update.apk",
-  "whatsapp_link": "https://chat.whatsapp.com/your_link",
-  "whitelist_link": "https://discord.gg/your_link"
+  "download_url": "https://github.com/RiviMAX/Nexora-Data-file/releases/download/v1.0/NexoraData.zip",
+  "whatsapp_link": "https://nexora-notify-bot.vercel.app/api/getdata?repo=whatsapp&file=index.html",
+  "whitelist_link": "https://nexora-notify-bot.vercel.app/api/getdata?repo=whitelist&file=index.html"
 }
